@@ -1,11 +1,13 @@
 .App {
-  
   text-align: center;
 }
 
 
 Body {  
-  font-family: Calibri, Helvetica, sans-serif;  
+  background-image: url("./pexels-ovan-62693.jpg");
+  background-size: cover;
+  font-family: Calibri, Helvetica, sans-serif; 
+   
   
 }  
 
